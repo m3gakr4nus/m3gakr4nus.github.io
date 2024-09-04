@@ -8,7 +8,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: false # open link in current tab
+  noblank: true # open link in current tab
 
 #- type: rss
 #  icon: "fas fa-rss"
