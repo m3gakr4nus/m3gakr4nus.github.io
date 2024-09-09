@@ -2,7 +2,7 @@
 title: New York Flankees
 date: 2024-07-17 17:00:00 +0200
 categories: [TryHackMe]
-tags: [Web, API, Padding Oracle, AES, CBC, RCE, Docker, Container Escape]
+tags: [Web, API, Padding-Oracle, AES, CBC, RCE, Docker, Container-Escape]
 description: Can you, the rogue adventurer, break through Stefan's defences to take control of his blog!
 render_with_liquid: false
 comments: true

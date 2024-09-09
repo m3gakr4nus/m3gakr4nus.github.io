@@ -2,7 +2,7 @@
 title: U.A. High School
 date: 2024-09-02 21:19:35 +0200
 categories: [TryHackMe]
-tags: [Web, RCE, Command Injection, Steganography, Magic Bytes]
+tags: [Web, RCE, Command-Injection, Steganography, Magic-Bytes]
 description: Welcome to the web application of U.A., the Superhero Academy.
 render_with_liquid: false
 media_subpath: /assets/img/thm_images/tryhackme_uahighschool/

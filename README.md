@@ -1,3 +1,3 @@
-# TryHackMe Writeups
+# TryHackMe and HackTheBox Writeups
 
-![m3gakr4nus.github.io](https://m3gakr4nus.github.io)
+https://m3gakr4nus.github.io

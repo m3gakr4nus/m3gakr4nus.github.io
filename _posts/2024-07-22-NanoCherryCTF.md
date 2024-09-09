@@ -2,7 +2,7 @@
 title: NanoCherryCTF
 date: 2024-07-22 17:00:00 +0200
 categories: [TryHackMe]
-tags: [Web, Subdomain, Information Disclosure, Brute Force, Steganography]
+tags: [Web, Subdomain, Information-Disclosure, Brute-Force, Steganography]
 description: Explore a double-sided site and escalate to root!
 render_with_liquid: false
 comments: true

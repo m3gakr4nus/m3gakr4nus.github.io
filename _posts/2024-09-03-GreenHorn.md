@@ -2,7 +2,7 @@
 title: GreenHorn
 date: 2024-09-03 16:30:36 +0200
 categories: [HackTheBox]
-tags: [Web, Pluck, RCE, Gitea, Depix, Information Disclosure, CVE-2023-50564]
+tags: [Web, Pluck, RCE, Gitea, Depix, Information-Disclosure, CVE-2023-50564]
 description: A vulnerable web environment with flaws in Pluck CMS and Gitea, leading to information disclosure, RCE, and privilege escalation. Exploit weak hashes and uncover hidden data to gain control.
 render_with_liquid: false
 media_subpath: /assets/img/htb_images/GreenHorn
