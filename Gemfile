@@ -6,7 +6,7 @@ gem "jekyll-theme-chirpy", "~> 7.1"
 
 group :test do
   gem "html-proofer", "~> 4.4"
-endo
+end
 
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
